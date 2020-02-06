@@ -18,7 +18,7 @@
 
 어떤 하나의 값이 아님. 고차원에서 샘플을 분류해내는 경계도 됨. 
 
-![](C:\Users\thest\OneDrive\바탕 화면\캡처.PNG)
+![](images\캡처.PNG)
 
 
 
